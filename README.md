@@ -2,7 +2,7 @@
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
-You can play the game at: https://github.com/GH-Dev-Progress-2/github-games-sreedhar989
+You can play the game at: https://gh-dev-progress-2.github.io/github-games-sreedhar989
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
